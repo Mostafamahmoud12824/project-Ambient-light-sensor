@@ -22,9 +22,9 @@ example , if there is no light (dark room ) then use
 black background and white text. (Ambient light
 sensor may help in this)
 
-![screen light mode ](https://github.com/Mostafamahmoud12824/project-Ambient-light-sensor/assets/62766443/29cc327a-33ee-495b-a4eb-b12d57762d95)
-
-
-
 
 ![screen dark mode](https://github.com/Mostafamahmoud12824/project-Ambient-light-sensor/assets/62766443/a9f45d6f-e440-434c-82ab-88ec23f0c77e)
+
+
+
+![Screen light mode](https://github.com/Mostafamahmoud12824/project-Ambient-light-sensor/assets/62766443/13e4f258-4140-4064-bc5c-848b27425a73)
